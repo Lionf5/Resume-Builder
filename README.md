@@ -1,7 +1,7 @@
 # Resume generator
 Web based editor to create Resume in a customizable template with the facility to save the file in .pdf formate.  
   
-###### Live Demo : 
+###### Live Demo : https://lionf5.github.io/Resume-Builder/
 
 ###### Technologies: HTML, CSS, JavaScript
 
@@ -38,7 +38,7 @@ To setup the project on your local machine:
 
 To contribute to the project:
 
-1. Choose any open issue from [here]( 
+1. Choose any open issue 
 2. Comment on the issue: `Can I work on this?` and get assigned.
 3. Make changes to your fork and send a PR.
 
